@@ -140,6 +140,27 @@
   <ItemGroup>
     <None Include="Resources\2227548686_733f01b3b7_b.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\steamlogin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Steam_icon_logo.svg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\power_closethesession_exit_close_1840.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\social-og.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\steamhome.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\steamhome2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\steamhome3.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
